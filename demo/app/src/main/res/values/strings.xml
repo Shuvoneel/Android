@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="action_settings">Home</string>
+    <string name="menu_cancel">Abort</string>
+    <string name="title_activity_option_menu">option_menu</string>
+</resources>
